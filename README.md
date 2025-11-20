@@ -17,3 +17,5 @@ It visualizes trends by country, genre, release year, and more to provide insigh
 - plotly
 - collections.Counter
 - scipy
+## Visualizations / Screenshots
+
