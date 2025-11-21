@@ -18,4 +18,4 @@ It visualizes trends by country, genre, release year, and more to provide insigh
 - collections.Counter
 - scipy
 ## Visualizations / Screenshots
-
+![Description of image](https://raw.githubusercontent.com/muthu-analytics/Netflix-Exploratory-Analysis/master/screenshot1/image1.png)
