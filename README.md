@@ -17,5 +17,15 @@ It visualizes trends by country, genre, release year, and more to provide insigh
 - plotly
 - collections.Counter
 - scipy
-## Visualizations / Screenshots
-![Description of image](https://raw.githubusercontent.com/muthu-analytics/Netflix-Exploratory-Analysis/master/screenshot1/image1.png)
+## 📸 Screenshots
+
+![Screenshot 1](screenshot1/image1.png)
+![Screenshot 2](screenshot1/image2.png)
+![Screenshot 3](screenshot1/image3.png)
+![Screenshot 4](screenshot1/image4.png)
+![Screenshot 5](screenshot1/image5.png)
+![Screenshot 6](screenshot1/image6.png)
+![Screenshot 7](screenshot1/image7.png)
+![Screenshot 8](screenshot1/image8.png)
+![Screenshot 9](screenshot1/image9.png)
+
